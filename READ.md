@@ -27,3 +27,6 @@
 
     <!-- chmod +x mapper.py / 실행권한 주기
     chmod -x mapper.py / 실행권한 삭제 -->
+
+
+    <!-- gh auth login = git 로그인 -->
