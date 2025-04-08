@@ -1,0 +1,10 @@
+apple hello world 
+hello apple world
+apple
+hello apple
+world apple
+hello apple
+apple apple
+apple apple
+hello apple apple apple
+hello apple apple apple apple
